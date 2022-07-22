@@ -13,3 +13,4 @@ List of papers:
 
 Interest Readings (books and others):
 - Training a single ai model can emit as much carbon as five cars in their life time (Article), Karen Hao. [link](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
+- Oil in the Cloud: How tech companies are helping big oil profit from climate destruction, GreenPeace [link] (https://www.greenpeace.org/usa/reports/oil-in-the-cloud/)
